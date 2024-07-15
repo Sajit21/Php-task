@@ -13,7 +13,7 @@ require_once('inc_session.php');
 <body>
 
 <?php
-include("header.php");
+include("header.php"); // we will slide to the header page incase our login is successfull
 ?>
     
 </body>
