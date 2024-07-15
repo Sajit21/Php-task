@@ -17,6 +17,6 @@
         }
     }
     else{
-        header("Location: users.php");
+        header("Location: users.php"); // transfer to the user.php incase the it throws and error
     }
 ?>
