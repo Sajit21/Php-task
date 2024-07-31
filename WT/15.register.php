@@ -1,3 +1,6 @@
+//created a register form if the havent login yet
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
