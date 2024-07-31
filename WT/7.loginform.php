@@ -1,3 +1,6 @@
+
+//main login access
+
 <form method="POST" name="register" action="8.register.php">
     <label for="">Username: </label>
     <input type="text" name="username"><br><br>
