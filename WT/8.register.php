@@ -1,3 +1,5 @@
+//checks whethet the register form is post or not
+
 <?php
 
 if(isset($_POST['login'])){
